@@ -5,12 +5,14 @@ import {VerticalTimeline,VerticalTimelineElement }from 'react-vertical-timeline-
 import'react-vertical-timeline-component/style.min.css'
 import { data } from "./utils";
 import './style.scss'
-import {MdWork} from 'react-icons/md'
+import {MdWork} from 'react-icons/md';
+
 const Resume=()=>{
 return(
     <section id="resume" className="resume">
     <PageHeaderContent
-      headerText="My Resume"
+      headerText="Education Details"
+      
       icon={<BsInfoCircleFill size={40} />}
     />
     <div className="timeline">
@@ -50,13 +52,16 @@ return(
                 
               </div>
               <p className="vertical-timeline-element-title-wrapper-description">{item.description}</p>
+              
 
             </VerticalTimelineElement>
             )
           }
         </VerticalTimeline>
+        
       </div>
     </div>
+    
   </section>
 )
 

@@ -7,7 +7,7 @@ const Home = () => {
 const navigate=useNavigate();
 
 const handleNavigateToContactMePage=()=>{
-    navigate('/contact')
+    
 
 }
 
@@ -22,7 +22,7 @@ const handleNavigateToContactMePage=()=>{
        
       </div>
       
-      <Animate
+      {/* <Animate
        play 
        duration={1.5}
        delay={1}
@@ -36,9 +36,9 @@ const handleNavigateToContactMePage=()=>{
 
       >
       <div className="home__contact-me">
-        <button onClick={handleNavigateToContactMePage}>Hire Me</button>
+        <button onClick={handleNavigateToContactMePage}>Resume</button>
       </div>
-      </Animate>
+      </Animate> */}
 
     </section>
   );

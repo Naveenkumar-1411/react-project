@@ -31,7 +31,7 @@ const personalDetails = [
 ];
 
 const jobSummary =
-  "A Front-End Developer is someone who creates websites and web applications.The difference between Front-End and Back-End is that Front-End refers to how a web page looks, while back-end refers to how it works.";
+  "I am Naveen Kumar P,I have completed my B.E Computer Science And Engineering  ";
 
 const About = () => {
   return (
@@ -54,7 +54,7 @@ const About = () => {
               transform: "translatex(0px)",
             }}
           >
-            <h3>FrontEnd Developer</h3>
+            <h3>Who am I ?</h3>
             <p>{jobSummary}</p>
           </Animate>
 
