@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Naveenkumar-1411/react-project/static/css/main.06ad6b8a.css",
-    "main.js": "/Naveenkumar-1411/react-project/static/js/main.e22b564e.js",
-    "index.html": "/Naveenkumar-1411/react-project/index.html",
-    "main.06ad6b8a.css.map": "/Naveenkumar-1411/react-project/static/css/main.06ad6b8a.css.map",
-    "main.e22b564e.js.map": "/Naveenkumar-1411/react-project/static/js/main.e22b564e.js.map"
+    "main.css": "/github.io/react-project/static/css/main.06ad6b8a.css",
+    "main.js": "/github.io/react-project/static/js/main.e22b564e.js",
+    "index.html": "/github.io/react-project/index.html",
+    "main.06ad6b8a.css.map": "/github.io/react-project/static/css/main.06ad6b8a.css.map",
+    "main.e22b564e.js.map": "/github.io/react-project/static/js/main.e22b564e.js.map"
   },
   "entrypoints": [
     "static/css/main.06ad6b8a.css",
