@@ -25,10 +25,10 @@ const data = [
   //   lable: "PORTFOLIO",
   //   to: "/portfolio",
   // },
-  {
-    lable: "CONTACT",
-    to: "/contact",
-  },
+  // {
+  //   lable: "CONTACT",
+  //   to: "/contact",
+  // },
 ];
 
 const Navbar = () => {
